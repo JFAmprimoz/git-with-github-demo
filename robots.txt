@@ -10,3 +10,4 @@ Disallow:
 
 # Pulling lesson
 # and now, the pushing lesson!
+# Now we pull and push with ssh.
